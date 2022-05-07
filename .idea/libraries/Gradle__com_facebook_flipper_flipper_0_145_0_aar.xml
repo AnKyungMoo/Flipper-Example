@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.flipper:flipper:0.145.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0837b07aecc47ccf351b834544ee8a6b/transformed/jetified-flipper-0.145.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0837b07aecc47ccf351b834544ee8a6b/transformed/jetified-flipper-0.145.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0837b07aecc47ccf351b834544ee8a6b/transformed/jetified-flipper-0.145.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0837b07aecc47ccf351b834544ee8a6b/transformed/jetified-flipper-0.145.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.flipper/flipper/0.145.0/e5a42631d1bd46cfd4dc617cc2183edd4c4f7227/flipper-0.145.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.flipper/flipper/0.145.0/baf15b18af6c02a7f9ba6f4e09898269078bc8c9/flipper-0.145.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
